@@ -1,0 +1,53 @@
+﻿body {
+}
+.form-required
+{
+ font-size: 16px;
+    margin-left: 4px;
+    color: red;
+}
+.tox-statusbar__branding
+{
+    display:none;
+}
+/*Typing message*/
+.character-typing {
+
+    z-index: 2;
+    margin: 0 auto;
+    display:none;
+    align-items: center;
+    justify-content: center;
+}
+.character-typing div {
+    background: #2e2e2ecd;
+    text-align: center;
+    border-radius: 6px;
+    color: #FFF;
+    padding: 6px 16px;
+    font-weight: 300;
+    display: inline-block;
+    font-size: 16px;
+}
+.msgg 
+{
+   
+    z-index: 2;
+    margin: 0 auto;
+  
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+}
+.msgg div{
+      background: #2e2e2e;
+    text-align: center;
+    border-radius: 6px;
+    color: #FFF;
+    padding: 6px 16px;
+    font-weight: 300;
+    display: inline-block;
+    font-size: 16px;
+    opacity:0.7;
+}
